@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/elina/Projects/Task/Task/Task.csproj": {}
+  },
+  "projects": {
+    "/Users/elina/Projects/CreateDictionary/CreateDictionary/CreateDictionary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elina/Projects/CreateDictionary/CreateDictionary/CreateDictionary.csproj",
+        "projectName": "CreateDictionary",
+        "projectPath": "/Users/elina/Projects/CreateDictionary/CreateDictionary/CreateDictionary.csproj",
+        "packagesPath": "/Users/elina/.nuget/packages/",
+        "outputPath": "/Users/elina/Projects/CreateDictionary/CreateDictionary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elina/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/elina/Projects/Task/Task/Task.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/elina/Projects/Task/Task/Task.csproj",
+        "projectName": "Task",
+        "projectPath": "/Users/elina/Projects/Task/Task/Task.csproj",
+        "packagesPath": "/Users/elina/.nuget/packages/",
+        "outputPath": "/Users/elina/Projects/Task/Task/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/elina/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/elina/Projects/CreateDictionary/CreateDictionary/CreateDictionary.csproj": {
+                "projectPath": "/Users/elina/Projects/CreateDictionary/CreateDictionary/CreateDictionary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

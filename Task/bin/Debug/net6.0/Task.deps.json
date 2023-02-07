@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task/1.0.0": {
+        "dependencies": {
+          "CreateDictionary": "1.0.0"
+        },
+        "runtime": {
+          "Task.dll": {}
+        }
+      },
+      "CreateDictionary/1.0.0": {
+        "runtime": {
+          "CreateDictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreateDictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

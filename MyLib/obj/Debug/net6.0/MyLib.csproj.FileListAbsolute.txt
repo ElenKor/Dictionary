@@ -1,0 +1,12 @@
+/Users/elina/Projects/Task/MyLib/bin/Debug/net6.0/MyLib.deps.json
+/Users/elina/Projects/Task/MyLib/bin/Debug/net6.0/MyLib.dll
+/Users/elina/Projects/Task/MyLib/bin/Debug/net6.0/MyLib.pdb
+/Users/elina/Projects/Task/MyLib/obj/Debug/net6.0/MyLib.csproj.AssemblyReference.cache
+/Users/elina/Projects/Task/MyLib/obj/Debug/net6.0/MyLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elina/Projects/Task/MyLib/obj/Debug/net6.0/MyLib.AssemblyInfoInputs.cache
+/Users/elina/Projects/Task/MyLib/obj/Debug/net6.0/MyLib.AssemblyInfo.cs
+/Users/elina/Projects/Task/MyLib/obj/Debug/net6.0/MyLib.csproj.CoreCompileInputs.cache
+/Users/elina/Projects/Task/MyLib/obj/Debug/net6.0/MyLib.dll
+/Users/elina/Projects/Task/MyLib/obj/Debug/net6.0/refint/MyLib.dll
+/Users/elina/Projects/Task/MyLib/obj/Debug/net6.0/MyLib.pdb
+/Users/elina/Projects/Task/MyLib/obj/Debug/net6.0/ref/MyLib.dll
